@@ -25,6 +25,7 @@ https://developer.apple.com/downloads/index.action
 * Grunt `npm install -g grunt-cli`
 * Bower `npm install -g bower`
 * Compass `gem install compass`
+* Bundler `gem install bundler`
 
 # Sublime Text
 * Install Sublime Text
